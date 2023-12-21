@@ -1,0 +1,20 @@
+<script>
+export default {
+    data() {
+        return {
+            title: 'La mia prima app con Vite!'
+        }
+    },
+    methods: {
+
+    },
+}
+</script>
+<template lang="">
+    <div>
+        {{ title }}
+    </div>
+</template>
+<style lang="">
+    
+</style>
